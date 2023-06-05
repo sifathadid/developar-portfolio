@@ -1,6 +1,6 @@
 body{
     font-family: 'Josefin Sans', sans-serif;
-    margin: 0;
+    margin: 0%;
 }
 .orange-color{
     font-size: 40px;
@@ -8,6 +8,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 4px;
 }
 .half-width{
     width: 50%;
@@ -25,7 +26,11 @@ section{
     color: wheat;
     font-weight: 400;
 }
-.top-bannar{
+.top-bannar {
     background-image: url(pexels-miguel-á-padriñán-255379.jpg);
+    background-repeat: no-repeat;
+}
+.ban-run{
+    background-image: url(pexels-johannes-plenio-1103970.jpg);
     background-repeat: no-repeat;
 }
