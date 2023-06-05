@@ -1,0 +1,31 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+}
+.orange-color{
+    font-size: 40px;
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 15%;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.lick-batton{
+    text-decoration: none;
+    background-image: linear-gradient(orange,green);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 400;
+}
+.top-bannar{
+    background-image: url(pexels-miguel-á-padriñán-255379.jpg);
+    background-repeat: no-repeat;
+}
